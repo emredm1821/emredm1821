@@ -17,6 +17,14 @@
 <br>
 
 <p>
+  <img src="https://raw.githubusercontent.com/emredm1821/emredm1821/main/iphone.png" width="60">
+  <b>iPhone 13 Pro Max</b><br>
+  OS: <i>iOS</i>
+</p>
+
+<br>
+
+<p>
   <img src="https://fdn2.gsmarena.com/vv/bigpic/oneplus-12.jpg" width="40">
   <b>OnePlus 12</b><br>
   OS: <i>LineageOS (Custom ROM)</i>
