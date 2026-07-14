@@ -27,7 +27,7 @@
 #### 💻 Computer
 
 <p>
-  <img src="https://raw.githubusercontent.com/emredm1821/emredm1821/main/thinkpad.png" width="50">
+  <img src="https://raw.githubusercontent.com/emredm1821/emredm1821/main/thinkpad.png" width="80">
   <b>Lenovo ThinkPad T14 Gen 6</b><br>
   OS: <i>EndeavourOS</i>
 </p>
@@ -35,7 +35,7 @@
 <br>
 
 <p>
-  <img src="https://raw.githubusercontent.com/emredm1821/emredm1821/main/legion.png" width="60">
+  <img src="https://raw.githubusercontent.com/emredm1821/emredm1821/main/legion.png" width="80">
   <b>Lenovo Legion Pro 7 Gen 10</b><br>
   OS: <i>Windows 11 24H2</i>
 </p>
